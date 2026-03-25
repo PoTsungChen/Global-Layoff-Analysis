@@ -1,7 +1,15 @@
 # 📊 Global Layoffs 2020-2025: SQL Exploratory Data Analysis (EDA) Project
 
 ## Overview
- 
+This project involved the end-to-end ETL processing and Exploratory Data Analysis (EDA) of a global layoffs dataset covering 2020–2025. The objective was to transform unstructured raw datasets into analysis-ready format for data analysis and visualization in order to 
+uncover trends, patterns, or correlations between variables to formulate data-driven hypotheses and extract actionable business insights.
+
+ ## Tools & Technologies Used
+1.  Database: SQL (SQL Server) 
+2.  Key SQL Techniques: Window Functions (ROW_NUMBER, DENSE_RANK), Common Table Expressions (CTEs), Data Imputation (COALESCE, CASE), and Aggregate Functions(AVERAGE, SUM).
+3.  Power BI: Dashboard, data visualization.
+4.  Dataset Source: Kaggle
+
 ## Executive Summary
 To analyze the macroeconomic shift in global employment from 2020-2026, identifying which sectors/industries maintained stability versus those with high volatility.
 
@@ -16,7 +24,7 @@ The Problem: It is unclear if high-funded startups are safer or more prone to ma
 The Goal: Analyze the relationship between funds_raised and percentage_laid_off to determine if capital-heavy companies have better "burn-rate" management than leaner startups.
   
 ## Methodology
-1. **Data Cleaning Process**\
+1. **Data Cleaning**\
 The raw data required significant preprocessing before analysis could begin. I followed a multi-step staging approach to ensure data integrity:
  * Staging: Created a stg_layoffs table to preserve the original raw data.
  * Deduplication: Used ROW_NUMBER() OVER(PARTITION BY...) to identify and remove duplicate entries.
@@ -34,12 +42,6 @@ With the cleaned data, I explored several key business questions:
  * Company Size & Funding: Is there a correlation between the amount of funds raised and the percentage of the workforce laid off?
  * Geography: Which countries and cities emerged as "hotspots" for workforce reductions?
 
-## Tools & Technologies Used
-1.  Database: SQL (SQL Server) 
-2.  Key SQL Techniques: Window Functions (ROW_NUMBER, DENSE_RANK), Common Table Expressions (CTEs), Data Imputation (COALESCE, CASE), and Aggregate Functions(AVERAGE, SUM).
-3.  Power BI: Dashboard, data visualization.
-4.  Dataset Source: Kaggle
-
 ## Results
 1. Industry Concentration: The Tech and Retail sectors accounted for over 45% of all global layoffs in 2023, signaling a significant market correction following the post-pandemic hiring surge.
 2. Funding vs. Survival: Companies in the Series B and C stages showed a higher "Layoff-to-Funding" ratio compared to Seed-stage startups, suggesting that mid-stage scaling often leads to higher overhead risk during downturns.
@@ -48,12 +50,12 @@ With the cleaned data, I explored several key business questions:
 
 ## Business recommendations:
 Based on the SQL analysis, the following strategic actions are recommended:
-1. Talent Acquisition Strategy:\
+1. Talent Acquisition Strategy:
    * Recommendation: Organizations looking to scale should aggressively target "top-tier" talent recently displaced from the Tech and Retail sectors.
    * Action: Pivot recruiting resources toward geographic hotspots (SF/Seattle) where the supply of experienced engineers currently exceeds local demand.
-3. Risk Management for Investors:\
-   * Recommendation: Venture Capital and Private Equity firms should increase due diligence on Series B/C startups with high burn rates.\
+3. Risk Management for Investors:
+   * Recommendation: Venture Capital and Private Equity firms should increase due diligence on Series B/C startups with high burn rates.
    * Action: Implement stricter "Capital Efficiency" benchmarks, as these mid-stage companies showed the highest volatility in workforce stability during the 2023 correction.
-4. Market Timing & Budgeting:\
-   * Recommendation: Firms planning expansion or partnerships should monitor Q1 layoff trends as an early-warning signal for broader economic cooling.\
+4. Market Timing & Budgeting:
+   * Recommendation: Firms planning expansion or partnerships should monitor Q1 layoff trends as an early-warning signal for broader economic cooling.
    * Action: Shift significant capital expenditures (CapEx) to Q2 or Q3 once the "New Year" layoff wave stabilizes, ensuring better leverage in vendor negotiations.
