@@ -1,14 +1,12 @@
 # 📊 Global Layoffs 2020-2025: SQL Exploratory Data Analysis (EDA) Project
 
 ## Overview
-This project involved the end-to-end ETL processing and Exploratory Data Analysis (EDA) of a global layoffs dataset covering 2020–2025. The objective was to transform unstructured raw datasets into analysis-ready format for data analysis and visualization in order to 
-uncover trends, patterns, or correlations between variables to formulate data-driven hypotheses and extract actionable business insights.
+This project involved Data Cleaning process and Exploratory Data Analysis (EDA) of a global layoffs dataset covering 2020–2025. The objective was to transform unstructured raw datasets into analysis-ready format for data analysis and visualization. This systematic approach also enabled the identification of trends, patterns, or correlations that can be used to formulate data-driven hypotheses and to extract actionable business insights.
 
  ## Tools & Technologies Used
 1.  Database: SQL (SQL Server) 
-2.  Key SQL Techniques: Window Functions (ROW_NUMBER, DENSE_RANK), Common Table Expressions (CTEs), Data Imputation (COALESCE, CASE), and Aggregate Functions(AVERAGE, SUM).
-3.  Power BI: Dashboard, data visualization.
-4.  Dataset Source: Kaggle
+2.  Power BI: Dashboard, data visualization.
+3.  Dataset Source: Kaggle
 
 ## Executive Summary
 To analyze the macroeconomic shift in global employment from 2020-2026, identifying which sectors/industries maintained stability versus those with high volatility.
