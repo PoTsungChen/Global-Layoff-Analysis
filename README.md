@@ -1,4 +1,4 @@
-# 📊 Global Layoffs 2020-2025: SQL Exploratory Data Analysis Project
+# 📊 Global Layoffs 2020-2025: SQL Exploratory Data Analysis (EDA) Project
 
 ## Overview
  
