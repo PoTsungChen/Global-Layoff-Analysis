@@ -8,9 +8,6 @@ This project involved Data Cleaning process and Exploratory Data Analysis (EDA) 
 2.  Power BI: Dashboard, data visualization.
 3.  Dataset Source: Kaggle
 
-## Executive Summary
-To analyze the macroeconomic shift in global employment from 2020-2025, identifying which sectors/industries maintained stability versus those with high volatility.
-
 ## Business Problem
 * In a volatile economic climate, stakeholders require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. This project transforms unstructured global layoff data into a reliable analytical asset, allowing decision-makers to identify high-risk industries, geographic hotspots, and the impact of funding stages on company stability.
 1. Competitive Intelligence & Market Mapping\
