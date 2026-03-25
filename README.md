@@ -1,5 +1,6 @@
-# 📊 Global Layoffs exploratory data analysis
- *An End-to-End ETL Solution for Unemployment Trend Analysis*
+# 📊 Global Layoffs 2020-2025: SQL Exploratory Data Analysis Project
+
+## Overview
  
 ## Executive Summary
 To analyze the macroeconomic shift in global employment from 2020-2026, identifying which sectors/industries maintained stability versus those with high volatility.
@@ -33,10 +34,11 @@ With the cleaned data, I explored several key business questions:
  * Company Size & Funding: Is there a correlation between the amount of funds raised and the percentage of the workforce laid off?
  * Geography: Which countries and cities emerged as "hotspots" for workforce reductions?
 
-## Skills
-1.  Database: SQL 
+## Tools & Technologies Used
+1.  Database: SQL (SQL Server) 
 2.  Key SQL Techniques: Window Functions (ROW_NUMBER, DENSE_RANK), Common Table Expressions (CTEs), Data Imputation (COALESCE, CASE), and Aggregate Functions(AVERAGE, SUM).
 3.  Power BI: Dashboard, data visualization.
+4.  Dataset Source: Kaggle
 
 ## Results
 1. Industry Concentration: The Tech and Retail sectors accounted for over 45% of all global layoffs in 2023, signaling a significant market correction following the post-pandemic hiring surge.
