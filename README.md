@@ -28,11 +28,11 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 7. Null & Missing Values handling.
 
 **Exploratory Data Analysis (EDA)**
-1. **Industry Impact**: Which industries were hit the hardest?
-2. **Temporal Trends**: Which months or years saw the highest spikes in layoffs?
-3. **Geography**: Which countries and cities emerged as "hotspots" for workforce reductions?
-4. **Correlations**: Is there a correlation between the amount of funds raised and the percentage of the workforce laid off?
-5. **Outliers identification**.
+1. Industry Impact: Which industries were hit the hardest?
+2. Temporal Trends**: Which months or years saw the highest spikes in layoffs?
+3. Geography: Which countries and cities emerged as "hotspots" for workforce reductions?
+4. Correlations: Is there a correlation between the amount of funds raised and the percentage of the workforce laid off?
+5. Outliers identification.
 
 ## 🎯Results
 1. **Industry Concentration**: The Tech and Retail sectors accounted for over 45% of all global layoffs in 2023, signaling a significant market correction following the post-pandemic hiring surge.
@@ -43,10 +43,10 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 
 ## 🚀Business recommendations:
 Based on the SQL analysis, the following strategic actions are recommended:
-1. Talent Acquisition Strategy:
+1. Talent Acquisition:
    * Recommendation: Organizations looking to scale should aggressively target "top-tier" talent recently displaced from the Tech and Retail sectors.
    * Action: Pivot recruiting resources toward geographic hotspots (SF/Seattle) where the supply of experienced engineers currently exceeds local demand.
-3. Risk Management for Investors:
+3. Risk Management:
    * Recommendation: Venture Capital and Private Equity firms should increase due diligence on Series B/C startups with high burn rates.
    * Action: Implement stricter "Capital Efficiency" benchmarks, as these mid-stage companies showed the highest volatility in workforce stability during the 2023 correction.
 4. Market Timing & Budgeting:
