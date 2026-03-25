@@ -9,7 +9,7 @@ This project involved Data Cleaning process and Exploratory Data Analysis (EDA) 
 3.  Dataset Source: Kaggle
 
 ## Executive Summary
-To analyze the macroeconomic shift in global employment from 2020-2026, identifying which sectors/industries maintained stability versus those with high volatility.
+To analyze the macroeconomic shift in global employment from 2020-2025, identifying which sectors/industries maintained stability versus those with high volatility.
 
 ## Business Problem
 * In a volatile economic climate, stakeholders require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. This project transforms unstructured global layoff data into a reliable analytical asset, allowing decision-makers to identify high-risk industries, geographic hotspots, and the impact of funding stages on company stability.
@@ -22,23 +22,21 @@ The Problem: It is unclear if high-funded startups are safer or more prone to ma
 The Goal: Analyze the relationship between funds_raised and percentage_laid_off to determine if capital-heavy companies have better "burn-rate" management than leaner startups.
   
 ## Methodology
-1. **Data Cleaning**\
-The raw data required significant preprocessing before analysis could begin. I followed a multi-step staging approach to ensure data integrity:
- * Staging: Created a stg_layoffs table to preserve the original raw data.
- * Deduplication: Used ROW_NUMBER() OVER(PARTITION BY...) to identify and remove duplicate entries.
- * Standardization:
+**Data Cleaning**
+1. Staging: Created a stg_layoffs table to preserve the original raw data.
+2. Deduplication: Used ROW_NUMBER() OVER(PARTITION BY...) to identify and remove duplicate entries.
+3. Standardization:
     * Trimmed whitespace from company names.
     * Standardized industry labels (e.g., merging "Crypto Currency" and "Crypto").
     * Fixed geographic inconsistencies (e.g., ensuring "United States" was uniform).
-* Null Handling & Imputation: * Used COALESCE to fill missing values in total_laid_off and funds_raised with 0 to prevent calculation errors.
+4. Null Handling & Imputation: * Used COALESCE to fill missing values in total_laid_off and funds_raised with 0 to prevent calculation errors.
     Populated missing industry and country data by joining the table against itself where location data was present.
 
-2. **Exploratory Data Analysis (EDA)**\
-With the cleaned data, I explored several key business questions:
- * Temporal Trends: Which months or years saw the highest spikes in layoffs?
- * Industry Impact: Which sectors (e.g., Tech, Retail, Finance) were hit the hardest?
- * Company Size & Funding: Is there a correlation between the amount of funds raised and the percentage of the workforce laid off?
- * Geography: Which countries and cities emerged as "hotspots" for workforce reductions?
+**Exploratory Data Analysis (EDA)**
+1. Temporal Trends: Which months or years saw the highest spikes in layoffs?
+2. Industry Impact: Which sectors (e.g., Tech, Retail, Finance) were hit the hardest?
+3. Company Size & Funding: Is there a correlation between the amount of funds raised and the percentage of the workforce laid off?
+4. Geography: Which countries and cities emerged as "hotspots" for workforce reductions?
 
 ## Results
 1. Industry Concentration: The Tech and Retail sectors accounted for over 45% of all global layoffs in 2023, signaling a significant market correction following the post-pandemic hiring surge.
