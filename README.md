@@ -9,14 +9,13 @@ This project involved Data Cleaning process and Exploratory Data Analysis (EDA) 
 3.  Dataset Source: Kaggle
 
 ## Business Problem
-* In a volatile economic climate, stakeholders require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. This project transforms unstructured global layoff data into a reliable analytical asset, allowing decision-makers to identify high-risk industries, geographic hotspots, and the impact of funding stages on company stability.
-1. Competitive Intelligence & Market Mapping\
-The Problem: Leadership needs to know which sectors are contracting and where talent is becoming available.\
-The Goal: Identify which industries (e.g., Fintech vs. EdTech) are most vulnerable to current economic headwinds to inform investment or hiring strategies.
+In a volatile economic climate, stakeholders require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. Decision-makers need to identify high-risk industries, geographic hotspots, and the impact of funding stages on company stability.
 
-2. Identifying Correlation between Funding and Survival\
-The Problem: It is unclear if high-funded startups are safer or more prone to massive cuts during a downturn.\
-The Goal: Analyze the relationship between funds_raised and percentage_laid_off to determine if capital-heavy companies have better "burn-rate" management than leaner startups.
+**Problem** 1: Leadership needs to know which industries are contracting and where talent is becoming available.\
+**The Goal**: Identify which industries are most vulnerable to current economic headwinds to inform investment or hiring strategies.
+
+**Problem 2**: It is unclear if high-funded startups are safer or more prone to massive cuts during a downturn.\
+**The Goal**: Analyze the relationship between funds_raised and percentage_laid_off to determine if capital-heavy companies have better "burn-rate" management than leaner startups.
   
 ## Methodology
 **Data Cleaning**
