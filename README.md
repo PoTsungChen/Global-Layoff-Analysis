@@ -15,23 +15,23 @@ The Problem: It is unclear if high-funded startups are safer or more prone to ma
 The Goal: Analyze the relationship between funds_raised and percentage_laid_off to determine if capital-heavy companies have better "burn-rate" management than leaner startups.
   
 ## Methodology
-**Data Cleaning Process**\
+1. **Data Cleaning Process**\
 The raw data required significant preprocessing before analysis could begin. I followed a multi-step staging approach to ensure data integrity:
-1.  Staging: Created a stg_layoffs table to preserve the original raw data.
-2.  Deduplication: Used ROW_NUMBER() OVER(PARTITION BY...) to identify and remove duplicate entries.
-3.  Standardization:\
+ * Staging: Created a stg_layoffs table to preserve the original raw data.
+ * Deduplication: Used ROW_NUMBER() OVER(PARTITION BY...) to identify and remove duplicate entries.
+ * Standardization:
     * Trimmed whitespace from company names.
     * Standardized industry labels (e.g., merging "Crypto Currency" and "Crypto").
     * Fixed geographic inconsistencies (e.g., ensuring "United States" was uniform).
-5.  Null Handling & Imputation: * Used COALESCE to fill missing values in total_laid_off and funds_raised with 0 to prevent calculation errors.
+* Null Handling & Imputation: * Used COALESCE to fill missing values in total_laid_off and funds_raised with 0 to prevent calculation errors.
     Populated missing industry and country data by joining the table against itself where location data was present.
 
-**Exploratory Data Analysis (EDA)**\
-With the cleaned data, I explored several key business questions:\
-* Temporal Trends: Which months or years saw the highest spikes in layoffs?
-* Industry Impact: Which sectors (e.g., Tech, Retail, Finance) were hit the hardest?
-* Company Size & Funding: Is there a correlation between the amount of funds raised and the percentage of the workforce laid off?
-* Geography: Which countries and cities emerged as "hotspots" for workforce reductions?
+2. **Exploratory Data Analysis (EDA)**\
+With the cleaned data, I explored several key business questions:
+ * Temporal Trends: Which months or years saw the highest spikes in layoffs?
+ * Industry Impact: Which sectors (e.g., Tech, Retail, Finance) were hit the hardest?
+ * Company Size & Funding: Is there a correlation between the amount of funds raised and the percentage of the workforce laid off?
+ * Geography: Which countries and cities emerged as "hotspots" for workforce reductions?
 
 ## Skills
 1.  Database: SQL 
@@ -47,11 +47,11 @@ With the cleaned data, I explored several key business questions:\
 ## Business recommendations:
 Based on the SQL analysis, the following strategic actions are recommended:
 1. Talent Acquisition Strategy:\
-   Recommendation: Organizations looking to scale should aggressively target "top-tier" talent recently displaced from the Tech and Retail sectors.
-   Action: Pivot recruiting resources toward geographic hotspots (SF/Seattle) where the supply of experienced engineers currently exceeds local demand.
+   * Recommendation: Organizations looking to scale should aggressively target "top-tier" talent recently displaced from the Tech and Retail sectors.
+   * Action: Pivot recruiting resources toward geographic hotspots (SF/Seattle) where the supply of experienced engineers currently exceeds local demand.
 3. Risk Management for Investors:\
-   Recommendation: Venture Capital and Private Equity firms should increase due diligence on Series B/C startups with high burn rates.
-   Action: Implement stricter "Capital Efficiency" benchmarks, as these mid-stage companies showed the highest volatility in workforce stability during the 2023 correction.
+   * Recommendation: Venture Capital and Private Equity firms should increase due diligence on Series B/C startups with high burn rates.\
+   * Action: Implement stricter "Capital Efficiency" benchmarks, as these mid-stage companies showed the highest volatility in workforce stability during the 2023 correction.
 4. Market Timing & Budgeting:\
-   Recommendation: Firms planning expansion or partnerships should monitor Q1 layoff trends as an early-warning signal for broader economic cooling.
-   Action: Shift significant capital expenditures (CapEx) to Q2 or Q3 once the "New Year" layoff wave stabilizes, ensuring better leverage in vendor negotiations.
+   * Recommendation: Firms planning expansion or partnerships should monitor Q1 layoff trends as an early-warning signal for broader economic cooling.\
+   * Action: Shift significant capital expenditures (CapEx) to Q2 or Q3 once the "New Year" layoff wave stabilizes, ensuring better leverage in vendor negotiations.
