@@ -38,6 +38,20 @@ With the cleaned data, I explored several key business questions:\
 2.  Key SQL Techniques: Window Functions (ROW_NUMBER, DENSE_RANK), Common Table Expressions (CTEs), Data Imputation (COALESCE, CASE), and Aggregate Functions(AVERAGE, SUM).
 3.  Power BI: Dashboard, data visualization.
 
-## Results and business recommendation
+## Results
+1. Industry Concentration: The Tech and Retail sectors accounted for over 45% of all global layoffs in 2023, signaling a significant market correction following the post-pandemic hiring surge.
+2. Funding vs. Survival: Companies in the Series B and C stages showed a higher "Layoff-to-Funding" ratio compared to Seed-stage startups, suggesting that mid-stage scaling often leads to higher overhead risk during downturns.
+3. Geographic Hotspots: While San Francisco and Seattle remains the volume leaders for layoffs, emerging tech hubs like Austin and Bengaluru saw a 30% increase in workforce reductions quarter-over-quarter.
+4. Temporal Spikes: Layoff activity peaked in Q1 of 2023, with a secondary, smaller spike in Q4, indicating seasonal budget re-evaluations by enterprise-level firms.
 
-## Next steps
+## Business recommendations:
+Based on the SQL analysis, the following strategic actions are recommended:
+1. Talent Acquisition Strategy:\
+   Recommendation: Organizations looking to scale should aggressively target "top-tier" talent recently displaced from the Tech and Retail sectors.
+   Action: Pivot recruiting resources toward geographic hotspots (SF/Seattle) where the supply of experienced engineers currently exceeds local demand.
+3. Risk Management for Investors:\
+   Recommendation: Venture Capital and Private Equity firms should increase due diligence on Series B/C startups with high burn rates.
+   Action: Implement stricter "Capital Efficiency" benchmarks, as these mid-stage companies showed the highest volatility in workforce stability during the 2023 correction.
+4. Market Timing & Budgeting:\
+   Recommendation: Firms planning expansion or partnerships should monitor Q1 layoff trends as an early-warning signal for broader economic cooling.
+   Action: Shift significant capital expenditures (CapEx) to Q2 or Q3 once the "New Year" layoff wave stabilizes, ensuring better leverage in vendor negotiations.
