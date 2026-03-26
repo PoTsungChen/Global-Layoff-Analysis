@@ -39,10 +39,10 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 2. **Temporal Spikes**: Layoff activity peaked in Q1 of 2023, with a secondary, smaller spike in Q4, indicating seasonal budget re-evaluations by enterprise-level firms.
 3. **Geographic Hotspots**: San Francisco and Seattle, where the most big tech companies headquartered, are the volume leaders for layoffs.
 4. **Funding vs.Survival**: Companies in the Series B and C stages showed a higher "Layoff-to-Funding" ratio compared to Seed-stage startups, suggesting that mid-stage scaling often leads to higher overhead risk during downturns.
-5. **Outliers**.
+5. **Outliers**: "The dataset contains several high-leverage observations—specifically in the Retail and Tech sectors—where single-day events exceeded 10,000 layoffs. These outliers were treated as valid data points reflecting the volatile 'post-pandemic correction' phase." While the median layoff size across the dataset was 80 employees, the mean was significantly inflated to 250 due to outlier events in the SF Bay Area and Seattle hubs."
 
 ## 🚀Business recommendations:
-Based on the SQL analysis, the following strategic actions are recommended:
+Based on the analysis, the following strategic actions are recommended:
 1. Talent Acquisition:
    * Recommendation: Organizations looking to scale should aggressively target "top-tier" talent recently displaced from the Tech and Retail sectors.
    * Action: Pivot recruiting resources toward geographic hotspots (SF/Seattle) where the supply of experienced engineers currently exceeds local demand.
