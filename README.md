@@ -48,7 +48,7 @@ Based on the analysis, the following strategic actions are recommended:
    * Action: Pivot recruiting resources toward geographic hotspots (SF/Seattle) where the supply of experienced engineers currently exceeds local demand.
 3. Risk Management:
    * Recommendation: Venture Capital and Private Equity firms must implement more rigorous due diligence for early-stage startups (Seed through Series B), as these ventures exhibit heightened sensitivity to macroeconomic shifts and carry a disproportionate risk of failure.
-   * Action: Implement stricter "Capital Efficiency" benchmarks, as these early-stage companies showed the highest volatility in workforce stability during the 2023 correction.
+   * Action: Implement stricter "Capital Efficiency" benchmarks, as these early-stage companies showed the highest volatility in workforce stability during the post-pandamic correction.
 4. Market Timing & Budgeting:
    * Recommendation: Firms planning expansion or partnerships should monitor Q1 layoff trends as an early-warning signal for broader economic cooling.
-   * Action: Shift significant capital expenditures (CapEx) to Q2 or Q3 once the "New Year" layoff wave stabilizes, ensuring better leverage in vendor negotiations.
+   * Action: Shift significant capital expenditures (CapEx) to Q3 or Q4 once the "New Year" layoff wave stabilizes, ensuring better leverage in vendor negotiations.
