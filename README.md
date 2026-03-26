@@ -35,7 +35,7 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 6. Outliers identification.
 
 ## 🎯Results
-1. **Industry Concentration**: The Hardware and Retail industries accounted for over 23% of all global layoffs from 2020 to 2025, signaling a significant market correction following the post-pandemic hiring surge.
+1. **Industry Concentration**: An early-pandemic collapse in Travel and Transportation, followed by a sustained contraction in Hardware and Retail from 2023 through 2025. During this latter period, Hardware and Retail consistently dominated the layoff rankings, eventually accounting for 23% of total global reductions as firms recalibrated following post-pandemic hiring surges.
 2. **Temporal Spikes**: Layoff activity peaked during Q1 and Q2, suggesting that enterprise-level firms are performing aggressive seasonal budget re-alignments to start the fiscal year.
 3. **Geographic Hotspots**: San Francisco and Seattle, where the most big tech companies headquartered, are the volume leaders for layoffs.
 4. **Survival vs. Failure**: While Public companies accounted for the highest total volume of layoffs, Seed and Series A firms experienced the most severe workforce reductions by percentage, suggesting that early-stage ventures lack the capital buffers to withstand prolonged macroeconomic volatility, leading to near-total liquidations during funding droughts.
