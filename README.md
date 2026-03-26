@@ -29,8 +29,8 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 **Exploratory Data Analysis (EDA)**
 1. Geography impact: Which countries and cities emerged as "hotspots" for workforce reductions?  
 2. Industry/comnpany Impact: Which industries/companies were hit the hardest?
-3. Temporal Trends**: Which quarters or years saw the highest spikes in layoffs?
-4. Which industries saw the most company closures? (percentage_laid_off = 1)
+3. Temporal Trends: Which quarters or years saw the highest spikes in layoffs?
+4. Company Stage: Which company stage saw the highest layoff percentage? 
 5. Correlations: Is there a correlation between the amount of funds raised and percentage laid off?
 6. Outliers identification.
 
