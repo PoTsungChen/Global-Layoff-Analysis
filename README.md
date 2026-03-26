@@ -22,17 +22,17 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 1. Create staging tables: to preserve raw data integrity.
 2. Remove Deduplication: Used ROW_NUMBER() and CTEs.
 3. Standardized text columns. 
-4. Fixed industry labels.
-5. Date column formatting.
-6. Validated numerical columns.
-7. Null & Missing Values handling.
+4. Delete recordes where both total_laid_off and percentage_laid_off are null.
+5. Update missing country name.
+6. Replace null value on text columns to 'Unknown'.
 
 **Exploratory Data Analysis (EDA)**
-1. Industry Impact: Which industries were hit the hardest?
-2. Temporal Trends**: Which months or years saw the highest spikes in layoffs?
-3. Geography: Which countries and cities emerged as "hotspots" for workforce reductions?
-4. Correlations: Is there a correlation between the amount of funds raised and the percentage of the workforce laid off?
-5. Outliers identification.
+1. Geography impact: Which countries and cities emerged as "hotspots" for workforce reductions?  
+2. Industry/comnpany Impact: Which industries/companies were hit the hardest?
+3. Temporal Trends**: Which quarters or years saw the highest spikes in layoffs?
+4. Which industries saw the most company closures? (percentage_laid_off = 1)
+5. Correlations: Is there a correlation between the amount of funds raised and percentage laid off?
+6. Outliers identification.
 
 ## 🎯Results
 1. **Industry Concentration**: The Tech and Retail sectors accounted for over 45% of all global layoffs in 2023, signaling a significant market correction following the post-pandemic hiring surge.
