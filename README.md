@@ -35,9 +35,9 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 6. Outliers identification.
 
 ## 🎯Results
-1. **Industry Concentration**: The Tech and Retail sectors accounted for over 45% of all global layoffs in 2023, signaling a significant market correction following the post-pandemic hiring surge.
+1. **Industry Concentration**: The Hardware and Retail industries accounted for over 23% of all global layoffs from 2020 to 2025, signaling a significant market correction following the post-pandemic hiring surge.
 2. **Temporal Spikes**: Layoff activity peaked in Q1 of 2023, with a secondary, smaller spike in Q4, indicating seasonal budget re-evaluations by enterprise-level firms.
-3. **Geographic Hotspots**: While San Francisco and Seattle remains the volume leaders for layoffs, emerging tech hubs like Austin and Bengaluru saw a 30% increase in workforce reductions quarter-over-quarter.
+3. **Geographic Hotspots**: San Francisco and Seattle, where the most big tech companies headquartered, are the volume leaders for layoffs.
 4. **Funding vs.Survival**: Companies in the Series B and C stages showed a higher "Layoff-to-Funding" ratio compared to Seed-stage startups, suggesting that mid-stage scaling often leads to higher overhead risk during downturns.
 5. **Outliers**.
 
