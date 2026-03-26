@@ -38,7 +38,7 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 1. **Industry Concentration**: The Hardware and Retail industries accounted for over 23% of all global layoffs from 2020 to 2025, signaling a significant market correction following the post-pandemic hiring surge.
 2. **Temporal Spikes**: Layoff activity peaked in Q1 of 2023, with a secondary, smaller spike in Q4, indicating seasonal budget re-evaluations by enterprise-level firms.
 3. **Geographic Hotspots**: San Francisco and Seattle, where the most big tech companies headquartered, are the volume leaders for layoffs.
-4. **Funding vs.Survival**: Companies in the Series B and C stages showed a higher "Layoff-to-Funding" ratio compared to Seed-stage startups, suggesting that mid-stage scaling often leads to higher overhead risk during downturns.
+4. **Funding vs. Survival**: Companies in the Seed, Series A and B stages showed the highest "Layoff-to-Funding" ratio compared to Seed-stage startups, suggesting that mid-stage scaling often leads to higher overhead risk during downturns.
 5. **Outliers**: "The dataset contains several high-leverage observations—specifically in the Retail and Tech sectors—where single-day events exceeded 10,000 layoffs. These outliers were treated as valid data points reflecting the volatile 'post-pandemic correction' phase." While the median layoff size across the dataset was 80 employees, the mean was significantly inflated to 250 due to outlier events in the SF Bay Area and Seattle hubs."
 
 ## 🚀Business recommendations:
@@ -47,8 +47,8 @@ Based on the analysis, the following strategic actions are recommended:
    * Recommendation: Organizations looking to scale should aggressively target "top-tier" talent recently displaced from the Tech and Retail sectors.
    * Action: Pivot recruiting resources toward geographic hotspots (SF/Seattle) where the supply of experienced engineers currently exceeds local demand.
 3. Risk Management:
-   * Recommendation: Venture Capital and Private Equity firms should increase due diligence on Series B/C startups with high burn rates.
-   * Action: Implement stricter "Capital Efficiency" benchmarks, as these mid-stage companies showed the highest volatility in workforce stability during the 2023 correction.
+   * Recommendation: Venture Capital and Private Equity firms must implement more rigorous due diligence for early-stage startups (Seed through Series B), as these ventures exhibit heightened sensitivity to macroeconomic shifts and carry a disproportionate risk of failure.
+   * Action: Implement stricter "Capital Efficiency" benchmarks, as these early-stage companies showed the highest volatility in workforce stability during the 2023 correction.
 4. Market Timing & Budgeting:
    * Recommendation: Firms planning expansion or partnerships should monitor Q1 layoff trends as an early-warning signal for broader economic cooling.
    * Action: Shift significant capital expenditures (CapEx) to Q2 or Q3 once the "New Year" layoff wave stabilizes, ensuring better leverage in vendor negotiations.
