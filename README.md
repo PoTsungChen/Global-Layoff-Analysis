@@ -1,7 +1,7 @@
 # 📊 Global Layoffs 2020-2025: SQL Exploratory Data Analysis (EDA) Project
 
 ## 🔭Overview
-This project involved Data Cleaning process and Exploratory Data Analysis (EDA) of a global layoffs dataset covering 2020–2025. The objective was to transform unstructured raw datasets into analysis-ready format for data analysis and visualization. This systematic approach also enabled the identification of trends, patterns, or correlations that can be used to formulate data-driven hypotheses and to extract actionable business insights.
+This project involved Data Cleaning process and Exploratory Data Analysis (EDA) of a global layoffs dataset covering 2020–2025. The objective was to transform unstructured raw datasets into analysis-ready format for data analysis and visualization. This systematic approach enabled the identification of trends, patterns, or correlations that can be used to formulate data-driven hypotheses and to extract actionable business insights.
 
 ## 🛠️Tools & Technologies Used
 1.  Database: SQL (SQL Server) 
