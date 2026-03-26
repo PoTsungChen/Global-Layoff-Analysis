@@ -36,9 +36,9 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 
 ## 🎯Results
 1. **Industry Concentration**: The Hardware and Retail industries accounted for over 23% of all global layoffs from 2020 to 2025, signaling a significant market correction following the post-pandemic hiring surge.
-2. **Temporal Spikes**: Layoff activity peaked in Q1 of 2023, with a secondary, smaller spike in Q4, indicating seasonal budget re-evaluations by enterprise-level firms.
+2. **Temporal Spikes**: Layoff activity peaked during Q1 and Q2, suggesting that enterprise-level firms are performing aggressive seasonal budget re-alignments to start the fiscal year.
 3. **Geographic Hotspots**: San Francisco and Seattle, where the most big tech companies headquartered, are the volume leaders for layoffs.
-4. **Funding vs. Survival**: Companies in the Seed, Series A and B stages showed the highest "Layoff-to-Funding" ratio compared to Seed-stage startups, suggesting that mid-stage scaling often leads to higher overhead risk during downturns.
+4. **Survival vs. Failure**: While Public companies accounted for the highest total volume of layoffs, Seed and Series A firms experienced the most severe workforce reductions by percentage, suggesting that early-stage ventures lack the capital buffers to withstand prolonged macroeconomic volatility, leading to near-total liquidations during funding droughts.
 5. **Outliers**: "The dataset contains several high-leverage observations—specifically in the Retail and Tech sectors—where single-day events exceeded 10,000 layoffs. These outliers were treated as valid data points reflecting the volatile 'post-pandemic correction' phase." While the median layoff size across the dataset was 80 employees, the mean was significantly inflated to 250 due to outlier events in the SF Bay Area and Seattle hubs."
 
 ## 🚀Business recommendations:
