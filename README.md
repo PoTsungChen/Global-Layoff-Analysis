@@ -11,11 +11,11 @@ This project involved Data Cleaning process and Exploratory Data Analysis (EDA) 
 ## 🧩Business Problem
 In a volatile economic climate, stakeholders require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. Decision-makers need to identify high-risk industries, geographic hotspots, and the impact of funding stages on company stability.
 
-* **Problem** 1: Leadership needs to know which industries are contracting and where talent is becoming available.\
-**The Goal**: Identify which industries are most vulnerable to current economic headwinds to inform investment or hiring strategies.
+* **Problem** 1: How should leadership adjust hiring strategies during an economic downturn?.\
+**The Goal**: Determine if there are specific industry clusters or temporal trends evident during economic headwinds.
 
-* **Problem 2**: It is unclear if high-funded startups are safer or more prone to massive cuts during a downturn.\
-**The Goal**: Analyze the relationship between funds raised and percentage laid-off to determine if capital-heavy companies have better "burn-rate" management than leaner startups.
+* **Problem 2**: Is venture capital a viable investment strategy during periods of macroeconomic volatility.\
+**The Goal**: Analyze the relationships between company stage, funds raised, and percentage laid-off to determine if early stage companies have better "burn-rate" management than leaner startups.
   
 ## ⚙️Methodology
 **Data Cleaning**
