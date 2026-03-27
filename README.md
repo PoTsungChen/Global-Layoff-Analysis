@@ -34,7 +34,7 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 5. Correlations: Is there a correlation between the amount of funds raised and percentage laid off?
 6. Outliers identification.
 
-## 🎯Results
+## 🎯Results & Insights
 1. **Industry Concentration**: An early-pandemic collapse in Travel and Transportation, followed by a sustained contraction in Hardware and Retail from 2023 through 2025. During this latter period, Hardware and Retail consistently dominated the layoff rankings, eventually accounting for 23% of total global reductions as firms recalibrated following post-pandemic hiring surges.
    
 2. **Temporal Spikes**: Layoff activity peaked during Q1 and Q2, suggesting that enterprise-level firms are performing aggressive seasonal budget re-alignments to start the fiscal year.
@@ -47,7 +47,7 @@ In a volatile economic climate, stakeholders require clear visibility into labor
    
 6. **Outliers**: The dataset reveals several significant outliers in the Retail and Tech sectors, where single-day events exceeded 10,000 layoffs These outliers were treated as valid data points reflecting the volatile 'post-pandemic correction' phase." While the median layoff size across the dataset was 80 employees, the mean was significantly inflated to 250 due to outlier events in the SF Bay Area and Seattle hubs.
 
-## 🚀Business recommendations:
+## 🚀 Recommendations:
 1. Hiring Strategy:
    * Recommendation 1: Company can reserve hiring budget for Q1/Q2and focus on Q3 for high performancers full-time roles, reallocating hiring budget from cost centers to revenue centers.
    * Recommendation 2: Companies can consider shifting toward more flexible contract_based staffing.
