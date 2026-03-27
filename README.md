@@ -48,13 +48,10 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 6. **Outliers**: The dataset reveals several significant outliers in the Retail and Tech sectors, where single-day events exceeded 10,000 layoffs These outliers were treated as valid data points reflecting the volatile 'post-pandemic correction' phase." While the median layoff size across the dataset was 80 employees, the mean was significantly inflated to 250 due to outlier events in the SF Bay Area and Seattle hubs.
 
 ## 🚀Business recommendations:
-Based on the analysis, the following strategic actions are recommended:
-1. Talent Acquisition:
-   * Recommendation: Organizations looking to scale should aggressively target "top-tier" talent recently displaced from the Tech and Retail sectors.
-   * Action: Pivot recruiting resources toward geographic hotspots (SF/Seattle) where the supply of experienced engineers currently exceeds local demand.
+1. Hiring Strategy:
+   * Recommendation 1: Company can reserve hiring budget for Q1/Q2and focus on Q3 for high performancers full-time roles, reallocating hiring budget from cost centers to revenue centers.
+   * Recommendation 2: Companies can consider shifting toward more flexible contract_based staffing.
+
 3. Risk Management:
-   * Recommendation: Venture Capital and Private Equity firms must implement more rigorous due diligence for early-stage startups (Seed through Series B), as these ventures exhibit heightened sensitivity to macroeconomic shifts and carry a disproportionate risk of failure.
-   * Action: Implement stricter "Capital Efficiency" benchmarks, as these early-stage companies showed the highest volatility in workforce stability during the post-pandamic correction.
-4. Market Timing & Budgeting:
-   * Recommendation: Firms planning expansion or partnerships should monitor Q1 layoff trends as an early-warning signal for broader economic cooling.
-   * Action: Shift significant capital expenditures (CapEx) to Q3 or Q4 once the "New Year" layoff wave stabilizes, ensuring better leverage in vendor negotiations.
+   * Recommendation: Venture Capital and Private Equity firms must implement more rigorous due diligence and stricter "Capital Efficiency" benchmarks for early-stage startups, as these ventures exhibit heightened sensitivity to macroeconomic shifts and carry a disproportionate risk of failure.
+  
