@@ -50,7 +50,7 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 ## 🚀 Recommendations:
 1. Hiring Strategy:
    * Recommendation 1: Company can reserve hiring budget for Q1/Q2and focus on Q3 for high performancers full-time roles, reallocating hiring budget from cost centers to revenue centers.
-   * Recommendation 2: Companies can consider shifting toward more flexible contract_based staffing.
+   * Recommendation 2: Companies should consider shifting toward more flexible contract_based staffing.
 
 3. Risk Management:
    * Recommendation: Venture Capital and Private Equity firms must implement more rigorous due diligence and stricter "Capital Efficiency" benchmarks for early-stage startups, as these ventures exhibit heightened sensitivity to macroeconomic shifts and carry a disproportionate risk of failure.
