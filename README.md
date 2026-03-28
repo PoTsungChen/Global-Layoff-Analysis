@@ -3,7 +3,7 @@
 ## 🔭Overview
 This project involved Data Cleaning process and Exploratory Data Analysis (EDA) of a global layoffs dataset covering 2020–2025. The objective was to transform unstructured raw datasets into analysis-ready format for data analysis and visualization. This systematic approach enabled the identification of key trends and correlations, which were used to formulate data-driven hypotheses and extract actionable insights.
 
-## 🛠️Tools & Technologies Used
+## 🛠️Tech Stack
 1.  Database: SQL (SQL Server) 
 2.  Power BI: Dashboard, data visualization.
 3.  Dataset Source: Kaggle
