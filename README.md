@@ -43,7 +43,7 @@ In a volatile economic climate, organizations require clear visibility into labo
    
 3. **Geographic Hotspots**: The United States topped the list for total layoffs for six consecutive years. Among the cities, San Francisco and Seattle, primary headquarters for "Big Tech" companies, emerged as the volume leaders for layoffs, reflecting a significant contraction within the headquarters of Big Tech.
    
-4. **Company stage vs percentage layoffs**: While Public companies accounted for the highest total volume of layoffs, Seed to Series B firms experienced the most severe workforce reductions by percentage, suggesting that early-stage ventures are more sensitive negative market environment. 
+4. **Company Stage vs Percentage Layoffs**: While Public companies accounted for the highest total volume of layoffs, Seed to Series B firms experienced the most severe workforce reductions by percentage, suggesting that early-stage ventures are more sensitive negative market environment. 
    
 5. **Correlation between funds raised and percentage laid off**: A inverse Relationship: Low Funding, early-stage companies (Seed, Series A) tend to have higher layoff percentage due to their lack of capital buffers. A prolonged macroeconomic volatility can lead to near-total liquidations during funding droughts. Public companies and those with >$1B in funding tend to have lower percentages (often 10%–20%), even though their total count of people laid off is much higher.
    
