@@ -8,8 +8,8 @@ This project involved Data Cleaning process and Exploratory Data Analysis (EDA) 
 2.  Power BI: Dashboard, data visualization.
 3.  Dataset Source: Kaggle
 
-## Contxt
-In a volatile economic climate, stakeholders require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. Decision-makers need to identify high-risk industries, geographic hotspots, and the impact of funding stages on company stability.
+## 🔍Contxt
+In a volatile economic climate, organizations require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. Decision-makers need to evaluate industry risk, geographic hotspots, and the correlation between funding stages and long-term stability to optimize venture capital investments.
 
 ## 🧩Business Problems
 
