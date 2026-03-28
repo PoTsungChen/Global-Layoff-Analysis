@@ -49,7 +49,7 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 
 ## 🚀 Recommendations:
 1. Hiring Strategy:
-   * Recommendation 1: Company can reserve hiring budget for Q1/Q2and focus on Q3 for high performancers full-time roles, reallocating hiring budget from cost centers to revenue centers.
+   * Recommendation 1: Companies should reserve hiring budgets during Q1/ Q2 and focus on Q3 to onboard high-performing full-time talent while reallocating capital from cost centers to revenue centers.
    * Recommendation 2: Companies should consider shifting toward more flexible contract_based staffing.
 
 3. Risk Management:
