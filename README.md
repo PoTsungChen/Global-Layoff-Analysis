@@ -8,8 +8,10 @@ This project involved Data Cleaning process and Exploratory Data Analysis (EDA) 
 2.  Power BI: Dashboard, data visualization.
 3.  Dataset Source: Kaggle
 
-## 🧩Business Problems
+## Contxt
 In a volatile economic climate, stakeholders require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. Decision-makers need to identify high-risk industries, geographic hotspots, and the impact of funding stages on company stability.
+
+## 🧩Business Problems
 
 * **Problem** 1: How should leadership adjust hiring strategies during an economic downturn?.\
 **The Goal**: Determine if there are specific industry clusters or temporal trends evident during economic headwinds.
