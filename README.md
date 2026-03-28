@@ -45,7 +45,7 @@ In a volatile economic climate, organizations require clear visibility into labo
    
 4. **Company Stage vs Percentage Layoffs**: While Public companies accounted for the highest total volume of layoffs, Seed to Series B firms experienced the most severe workforce reductions by percentage, suggesting that early-stage ventures are more sensitive negative market environment. 
    
-5. **Correlation between funds raised and percentage laid off**: A inverse Relationship: Low Funding, early-stage companies (Seed, Series A) tend to have higher layoff percentage due to their lack of capital buffers. A prolonged macroeconomic volatility can lead to near-total liquidations during funding droughts. Public companies and those with >$1B in funding tend to have lower percentages (often 10%–20%), even though their total count of people laid off is much higher.
+5. **Correlations**: A inverse Relationship: Low Funding, early-stage companies (Seed, Series A) tend to have higher layoff percentage due to their lack of capital buffers. A prolonged macroeconomic volatility can lead to near-total liquidations during funding droughts. Public companies and those with >$1B in funding tend to have lower percentages (often 10%–20%), even though their total count of people laid off is much higher.
    
 6. **Outliers**: The dataset reveals several significant outliers in the Retail and Tech sectors, where single-day events exceeded 10,000 layoffs These outliers were treated as valid data points reflecting the volatile 'post-pandemic correction' phase." The observation that the mean is greater than the median suggests a right-skewed distribution, driven by several extremely large layoff events.
 
