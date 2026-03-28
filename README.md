@@ -37,7 +37,7 @@ In a volatile economic climate, stakeholders require clear visibility into labor
 ## 🎯Results & Insights
 1. **Industry Concentration**: An early-pandemic collapse in Travel and Transportation, followed by a sustained contraction in Hardware and Retail from 2023 through 2025. During this latter period, Hardware and Retail consistently dominated the layoff rankings, eventually accounting for 23% of total global reductions as firms recalibrated following post-pandemic hiring surges.
    
-2. **Temporal Spikes**: Layoff activity peaked during Q1 and Q2, suggesting that enterprise-level firms are performing aggressive seasonal budget re-alignments to start the fiscal year.
+2. **Temporal Spikes**: Layoff activity peaked during Q1 and Q2 in most of the years, suggesting that enterprise-level firms are performing aggressive seasonal budget re-alignments to start the fiscal year.
    
 3. **Geographic Hotspots**: The United States topped the list for total layoffs for six consecutive years. Among the cities, San Francisco and Seattle, primary headquarters for "Big Tech" companies, emerged as the volume leaders for layoffs, reflecting a significant contraction within the headquarters of Big Tech.
    
