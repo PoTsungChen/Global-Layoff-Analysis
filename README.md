@@ -6,10 +6,10 @@ In a volatile economic climate, organizations require clear visibility into labo
 ## 🧩Business Problems
 
 * **Problem** 1: How should leadership adjust hiring strategies during an economic downturn?.\
-**The Goal**: Determine if there are specific industry clusters or temporal trends evident during economic headwinds.
+**Objective**: Determine if there are specific industry clusters or temporal trends evident during economic headwinds.
 
 * **Problem 2**: Does a venture capital investment strategy carry higher risk during periods of macroeconomic volatility.\
-**The Goal**: Evaluate the correlation between funding levels and layoff intensity to determine if smaller startups maintain sufficient capital efficiency.
+**Objective**: Evaluate the correlation between funding levels and layoff intensity to determine if smaller startups maintain sufficient capital efficiency.
   
 ## ⚙️Methodology
 **Data Cleaning**
