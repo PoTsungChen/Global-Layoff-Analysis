@@ -57,3 +57,9 @@ In a volatile economic climate, organizations require clear visibility into labo
 3. Risk Management:
    * Recommendation: Venture Capital and Private Equity firms must implement more rigorous due diligence and stricter "Capital Efficiency" benchmarks for early-stage startups, as these ventures exhibit heightened sensitivity to macroeconomic shifts and carry a disproportionate risk of failure.
   
+## 📈Data Visualization
+
+<img width="1445" height="812" alt="image" src="https://github.com/user-attachments/assets/4da145ed-a2fd-4a14-8ab8-57d69dda9b9e" />
+
+
+  
