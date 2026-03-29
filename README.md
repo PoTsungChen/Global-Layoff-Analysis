@@ -1,8 +1,5 @@
 # 📊 Global Layoff Anslysis
 
-## 🔭Overview
-This analysis involved Data Cleaning process and Exploratory Data Analysis (EDA) of a global layoffs dataset covering 2020–2025. The objective was to transform unstructured raw datasets into analysis-ready format for data analysis and visualization. This systematic approach enabled the identification of key trends and patterns, allowing us to formulate data-driven hypotheses and extract actionable insights.
-
 ## 🔍Contxt
 In a volatile economic climate, organizations require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. Decision-makers need to evaluate industry risk, geographic hotspots, and the correlation between funding stages and long-term stability to optimize capital investments. This analysis provides data-driven insights into corporate budgeting and stratigic capital allocation.
 
