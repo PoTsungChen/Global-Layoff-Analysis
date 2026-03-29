@@ -1,6 +1,6 @@
 # 📊 Global Layoff Anslysis
 
-## 🔍Contxt
+## 🖼️Contxt
 In a volatile economic climate, organizations require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. Decision-makers need to evaluate industry risk, geographic hotspots, and the correlation between funding stages and long-term stability to optimize capital investments. This analysis provides data-driven insights into corporate budgeting and stratigic capital allocation.
 
 ## 🧩Business Problems
@@ -11,16 +11,8 @@ In a volatile economic climate, organizations require clear visibility into labo
 * **Problem 2**: Does a venture capital investment strategy carry higher risk during periods of macroeconomic volatility.\
 **Objective**: Evaluate the correlation between funding levels and layoff intensity to determine if smaller startups maintain sufficient capital efficiency.
   
-## ⚙️Methodology
-**Data Cleaning**
-1. Create staging tables: to preserve raw data integrity.
-2. Remove Deduplication: Used ROW_NUMBER() and CTEs.
-3. Standardized text columns. 
-4. Delete recordes where both total_laid_off and percentage_laid_off are null.
-5. Update missing country name.
-6. Replace null value on text columns to 'Unknown'.
+## 🔍Exploratory Data Analysis (EDA)
 
-**Exploratory Data Analysis (EDA)**
 1. Geography impact: Which countries and cities emerged as "hotspots" for workforce reductions?  
 2. Industry/comnpany Impact: Which industries/companies were hit the hardest?
 3. Temporal Trends: Which quarters or years saw the highest spikes in layoffs?
