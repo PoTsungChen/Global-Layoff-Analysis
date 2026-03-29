@@ -51,10 +51,9 @@ In a volatile economic climate, organizations require clear visibility into labo
   
 ## 📈Data Visualization
 
-<img width="1445" height="812" alt="image" src="https://github.com/user-attachments/assets/4da145ed-a2fd-4a14-8ab8-57d69dda9b9e" />
+<img width="1453" height="788" alt="image" src="https://github.com/user-attachments/assets/16b2f594-8759-4df5-97e3-b930770e1214" />
 
-
-  ## 🛠️Tech Stack
+## 🛠️Tools & Technologies Used
 1.  Database: SQL (SQL Server) 
 2.  Power BI: Dashboard, data visualization.
 3.  Dataset Source: Kaggle
