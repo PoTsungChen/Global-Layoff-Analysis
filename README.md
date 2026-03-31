@@ -1,7 +1,7 @@
 # 📊 Global Layoff Anslysis
 
 ## 🖼️Contxt
-In a volatile economic climate, organizations require clear visibility into labor market shifts to drive strategic capital allocation and competitive positioning. This project delivers data-driven insights by evaluating sector-specific risk, geographic headcount trends, and the correlation between funding lifecycle stages and long-term enterprise stability. The final analysis provides a framework for optimizing corporate budgeting and mitigating venture capital investment risk.
+In a volatile economic climate, organizations require clear visibility into labor market shifts to drive strategic capital allocation and competitive positioning. This project delivers data-driven insights by evaluating sector-specific risk, geographic layoff trends, and the correlation between funding lifecycle stages and long-term enterprise stability. The final analysis provides a framework for optimizing corporate budgeting and mitigating venture capital investment risk.
 
 ## 🧩Business Problems
 
