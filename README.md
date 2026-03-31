@@ -23,7 +23,10 @@ In a volatile economic climate, organizations require clear visibility into labo
 ## 🎯Key Findings & Insights
 1. **Industry Concentration**: An early-pandemic collapse in Travel and Transportation, followed by a sustained contraction in Hardware and Retail from 2023 through 2025. During this latter period, Hardware and Retail consistently dominated the layoff rankings, eventually accounting for 23% of total global reductions as firms recalibrated following post-pandemic hiring surges.
    
-2. **Temporal Spikes**: Layoff activity peaked during Q1 and Q2 in most of the years in the span of the dataset (except for 2022), suggesting that the firms are performing aggressive seasonal budget re-alignments to start the fiscal year. The spike in 2022 was likely driven by aggressive Federal Reserve interest rate hikes. This created a significant anomaly where a small number of 'Big Tech' outliers accounted for a disproportionate volume of total layoffs, particularly during the surge in Q3 and Q4.
+      <img width="679" height="379" alt="image" src="https://github.com/user-attachments/assets/da265993-2e13-4c61-96a5-73bfac731bbf" />
+
+
+3. **Temporal Spikes**: Layoff activity peaked during Q1 and Q2 in most of the years in the span of the dataset (except for 2022), suggesting that the firms are performing aggressive seasonal budget re-alignments to start the fiscal year. The spike in 2022 was likely driven by aggressive Federal Reserve interest rate hikes. This created a significant anomaly where a small number of 'Big Tech' outliers accounted for a disproportionate volume of total layoffs, particularly during the surge in Q3 and Q4.
 
       <img width="714" height="357" alt="image" src="https://github.com/user-attachments/assets/55cfa8e1-0568-40ad-a2a7-0fe2af5a55a8" />
 
