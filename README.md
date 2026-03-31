@@ -24,42 +24,42 @@ In a volatile economic climate, organizations require clear visibility into labo
 1. **Industry Concentration**: An early-pandemic collapse in Travel and Transportation, followed by a sustained contraction in Hardware and Retail from 2023 through 2025. During this latter period, Hardware and Retail consistently dominated the layoff rankings, eventually accounting for 23% of total global reductions as firms recalibrated following post-pandemic hiring surges.
 
    
-      <img width="705" height="414" alt="image" src="https://github.com/user-attachments/assets/9890a4fe-ea10-4ec2-b009-b659463e078f" />
+      <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5100e6d7-cbb5-4a2a-85fd-d91958bdcdfc" />
 
 
 
 2. **Temporal Spikes**: Layoff activity peaked during Q1 and Q2 in most of the years in the span of the dataset (except for 2022), suggesting that the firms are performing aggressive seasonal budget re-alignments to start the fiscal year. The spike in 2022 was likely driven by aggressive Federal Reserve interest rate hikes. This created a significant anomaly where a small number of 'Big Tech' outliers accounted for a disproportionate volume of total layoffs, particularly during the surge in Q3 and Q4.
 
 
-      <img width="712" height="412" alt="image" src="https://github.com/user-attachments/assets/e6daa164-cc4a-4a91-bd52-ce51752fbbb2" />
+      <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e6daa164-cc4a-4a91-bd52-ce51752fbbb2" />
 
 
     
 3. **Geographic Hotspots**: The United States topped the list for total layoffs for six consecutive years. Among the American cities, San Francisco and Seattle, primary headquarters for "Big Tech" companies, emerged as the volume leaders for layoffs, reflecting a significant contraction within the headquarters of Big Tech.
    
 
-      <img width="698" height="407" alt="image" src="https://github.com/user-attachments/assets/e900a473-59ad-4378-96a7-e63ff64066a6" />
+      <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e900a473-59ad-4378-96a7-e63ff64066a6" />
 
 
    
 4. **Company Stage vs Percentage Layoffs**: While Public companies accounted for the highest total volume of layoffs, Seed to Series B firms experienced the most severe workforce reductions by percentage, suggesting that early-stage ventures are more sensitive to negative market environment.
 
 
-      <img width="703" height="411" alt="image" src="https://github.com/user-attachments/assets/93e34521-e214-4e9e-9527-15b40af803c7" />
+      <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/93e34521-e214-4e9e-9527-15b40af803c7" />
 
 
    
 5. **Correlations**: A inverse relationship: low funding, early-stage companies (Seed, Series A) tend to have higher layoff percentage due to their lack of capital buffers. Prolonged macroeconomic volatility often triggers funding drought, forcing vulnerable companies toward near-total liquidations. Public companies and those with >$1B in funding tend to have lower percentages (often 10%–20%) despite accounting for the highest absolute headcount losses.
    
 
-      <img width="697" height="417" alt="image" src="https://github.com/user-attachments/assets/76e5b9ab-131a-4efe-9372-faffbc994044" />
+      <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/76e5b9ab-131a-4efe-9372-faffbc994044" />
 
 
 
-6. **Outliers**: The dataset identifies several significant outliers within the Big Tech secotr, where single-day events exceeded 10,000 layoffs These outliers were treated as valid data points reflecting the volatile 'post-pandemic correction' phase." The observation that the mean is greater than the median suggests a right-skewed distribution, driven by several extremely large layoff events.
+6. **Outliers**: The dataset identifies several significant outliers within the Big Tech sector, where single-day events exceeded 10,000 layoffs These outliers were treated as valid data points reflecting the volatile 'post-pandemic correction' phase." The observation that the mean is greater than the median suggests a right-skewed distribution, driven by several extremely large layoff events.
 
 
-      <img width="729" height="453" alt="image" src="https://github.com/user-attachments/assets/e01049a2-7f57-4866-8930-c33d7fa3962e" />
+      <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e01049a2-7f57-4866-8930-c33d7fa3962e" />
 
 
 
