@@ -38,10 +38,10 @@ In a volatile economic climate, organizations require clear visibility into labo
 3. **Geographic Hotspots**: The United States topped the list for total layoffs for six consecutive years. Among the American cities, San Francisco and Seattle, primary headquarters for "Big Tech" companies, emerged as the volume leaders for layoffs, reflecting a significant contraction within the headquarters of Big Tech.
    
 
-      <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e900a473-59ad-4378-96a7-e63ff64066a6" />
+      <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6c2bf055-927d-425f-9125-ce865859ac03" />
 
 
-   
+
 4. **Company Stage vs Percentage Layoffs**: While Public companies accounted for the highest total volume of layoffs, Seed to Series B firms experienced the most severe workforce reductions by percentage, suggesting that early-stage ventures are more sensitive to negative market environment.
 
 
