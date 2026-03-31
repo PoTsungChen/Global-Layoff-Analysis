@@ -1,7 +1,7 @@
 # 📊 Global Layoff Anslysis
 
 ## 🖼️Contxt
-In a volatile economic climate, organizations require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. Decision-makers need to evaluate industry risk, geographic hotspots, and the correlation between funding stages and long-term stability to optimize capital investments. This analysis provides data-driven insights into corporate budgeting and stratigic capital allocation.
+In a volatile economic climate, organizations require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. Decision-makers need to evaluate industry risk, geographic hotspots, and the correlation between funding stages and long-term stability to optimize capital investments. This analysis provides data-driven insights into corporate budgeting and strategic capital allocation.
 
 ## 🧩Business Problems
 
