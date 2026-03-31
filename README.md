@@ -1,11 +1,11 @@
 # 📊 Global Layoff Anslysis
 
 ## 🖼️Contxt
-In a volatile economic climate, organizations require clear visibility into labor market shifts to make informed decisions regarding talent acquisition and competitive positioning. Decision-makers need to evaluate industry risk, geographic hotspots, and the correlation between funding stages and long-term stability to optimize capital investments. This analysis provides data-driven insights into corporate budgeting and strategic capital allocation.
+In a volatile economic climate, organizations require clear visibility into labor market shifts to make informed decisions to drive strategic capital allocation and competitive positioning. This project delivers data-driven insights by evaluating sector-specific risk, geographic headcount trends, and the correlation between funding lifecycle stages and long-term enterprise stability. The final analysis provides a framework for optimizing corporate budgeting and mitigating venture capital investment risk.
 
 ## 🧩Business Problems
 
-* **Problem** 1: How should leadership adjust hiring strategies during an economic downturn?\
+**Problem** 1: How should leadership adjust hiring strategies during an economic downturn?\
 **Objective**: Determine if there are specific industry clusters or temporal trends evident during economic headwinds.
 
 * **Problem 2**: Does a venture capital investment strategy carry higher risk during periods of macroeconomic volatility?\
