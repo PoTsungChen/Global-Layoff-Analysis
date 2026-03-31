@@ -52,15 +52,15 @@ In a volatile economic climate, organizations require clear visibility into labo
 5. **Correlations**: A inverse relationship: low funding, early-stage companies (Seed, Series A) tend to have higher layoff percentage due to their lack of capital buffers. Prolonged macroeconomic volatility often triggers funding drought, forcing vulnerable companies toward near-total liquidations. Public companies and those with >$1B in funding tend to have lower percentages (often 10%–20%) despite accounting for the highest absolute headcount losses.
    
 
-      <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/76e5b9ab-131a-4efe-9372-faffbc994044" />
+      <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b1a31f0d-db61-470e-a958-0c6fc608235e" />
+
 
 
 
 6. **Outliers**: The dataset identifies several significant outliers within the Big Tech sector, where single-day events exceeded 10,000 layoffs These outliers were treated as valid data points reflecting the volatile 'post-pandemic correction' phase." The observation that the mean is greater than the median suggests a right-skewed distribution, driven by several extremely large layoff events.
 
 
-      <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e01049a2-7f57-4866-8930-c33d7fa3962e" />
-
+      <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0461ab10-4ab5-4906-93fd-f0901b9444a1" />
 
 
 ## 🚀 Recommendations:
@@ -73,7 +73,8 @@ In a volatile economic climate, organizations require clear visibility into labo
   
 ## 📈Dashboard
 
-<img width="1453" height="788" alt="image" src="https://github.com/user-attachments/assets/16b2f594-8759-4df5-97e3-b930770e1214" />
+<img width="1414" height="780" alt="image" src="https://github.com/user-attachments/assets/942a4046-b6e0-4d7c-b962-d9c80d4ecbbf" />
+
 
 ## 🛠️Tools & Technologies Used
 1.  Database: SQL (SQL Server) 
