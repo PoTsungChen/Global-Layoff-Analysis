@@ -74,7 +74,8 @@ In a volatile economic climate, organizations require clear visibility into labo
 ## 📈Dashboard
 
 
-<img width="1430" height="785" alt="Global Layoff Dashboard" src="https://github.com/user-attachments/assets/cbe2e4ce-9f73-4e9d-a041-e881ef1820fd" />
+<img width="1454" height="808" alt="Global Layoff Dashboard" src="https://github.com/user-attachments/assets/a053879f-7da6-4f2f-bf13-0992b1c51232" />
+
 
 
 ## 🛠️Tools & Technologies Used
